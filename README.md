@@ -1,2 +1,4 @@
 # Git
-Primer practica.
+Practica Uno
+Estandares 
+Comentarios
