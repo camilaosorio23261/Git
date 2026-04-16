@@ -2,7 +2,7 @@
 **_Maya ahorra agua_**  :droplet:
 
 
-##*Juego educativo  para el uso responsable del agua*
+## *Juego educativo  para el uso responsable del agua*
  
 *Facultad de ingenierías*
 
@@ -11,7 +11,7 @@
 *Técnico Profesional en Programación de Sistemas de Información*
 
 
-**_Made by_**
+**_Made by_** :smiley:
   
 *Laura Cristina Giraldo Monsalve*
 
@@ -28,7 +28,7 @@
 
 ---
 
-#**_PROBLEMA, INTERÉS O NECESIDAD – PIN_**
+#  **_PROBLEMA, INTERÉS O NECESIDAD – PIN_**
 
 Actualmente enfrentamos un desafío global por problemáticas tales como el cambio climático, la sobreexplotación de recursos naturales, la deforestación, etc., que amenazan el bienestar ambiental de las futuras generaciones; lo que hace necesario implementar estrategias de desarrollo sostenible.
 Para este proyecto nos enfocaremos específicamente en el alto consumo de agua en los hogares, lo que se considera una problemática crítica que repercute directamente en el deterioro del medio ambiente. En latinoamérica, el consumo promedio por hogar oscila entre los 120 y 200 litros diarios, siendo la ducha y el inodoro los lugares donde se ve reflejado el mayor consumo; lo que supera significativamente los niveles recomendados por la Organización Mundial de la Salud (OMS) que indica que 100 litros diarios son suficientes para cubrir las necesidades básicas (Padilla, 2022), esto intensifica el riesgo a que las futuras generaciones no puedan disponer de este recurso. Se estima que, para el año 2050, muchas zonas del mundo tendrán que afrontar una escasez severa de este recurso si no se toman medidas.
@@ -38,11 +38,11 @@ Respecto a lo anterior se puede denotar una falta de conciencia en las personas 
 
 ---
 
-#**_OBJETIVO GENERAL_**
+# **_OBJETIVO GENERAL_**
 
 Desarrollar un juego lúdico y educativo que permita a los niños mayores de 5 años aprender a optimizar el consumo del agua en su hogar para reducir así el impacto ambiental que el consumo excesivo de este recurso genera.
 
-#**_OBJETIVOS ESPECÍFICOS_**
+# **_OBJETIVOS ESPECÍFICOS_**
 
 Diseñar un juego educativo que permita enseñar el uso responsable del agua en las actividades diarias de los hogares. 
 
@@ -55,7 +55,7 @@ Realizar pruebas sobre los niveles del juego para validar la lógica de programa
 
 ---
 
-#**_ALCANCE_**
+# **_ALCANCE_**
 
 Se pretende desarrollar un juego lúdico enfocado en la educación sobre sostenibilidad; más precisamente sobre el ahorro de recursos hídricos en el diario vivir de los hogares, dirigido principalmente a niños mayores de 5 años.
 
@@ -87,11 +87,11 @@ Se utilizarán herramientas como Python, Gimp y Tiled.
 ---
 
 
-#**_PREGUNTA DE INVESTIGACIÓN_**
+# **_PREGUNTA DE INVESTIGACIÓN_**
 
 ¿Cómo una aplicación lúdica influye en el aprendizaje de hábitos de ahorro de agua en los niños mayores de 5 años?
 
-#**_HIPÓTESIS_**
+# **_HIPÓTESIS_**
 
 Una aplicación lúdica y educativa influye positivamente en el aprendizaje, por parte de niños mayores de 5 años, de hábitos de optimización de consumo de agua.
 
